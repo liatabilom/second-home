@@ -1,0 +1,13 @@
+.cardBg {
+  background-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);
+}
+
+img {
+  position: relative;
+  left: -556px;
+  top: 0px;
+  max-width: 830px;
+  max-height: 605px;
+  padding: 0px;
+  margin: 0px;
+}
