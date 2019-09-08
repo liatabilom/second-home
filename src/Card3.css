@@ -3,10 +3,11 @@
 }
 
 img {
+  display: flex;
   position: relative;
-  left: -556px;
+  left: -550px;
   top: 0px;
-  max-width: 830px;
+  max-width: 822px;
   max-height: 605px;
   padding: 0px;
   margin: 0px;

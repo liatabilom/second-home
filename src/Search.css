@@ -1,3 +1,6 @@
+.container {
+  display: flex;
+}
 .emailInput {
   position: relative;
   left: 20px;

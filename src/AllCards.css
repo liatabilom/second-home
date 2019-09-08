@@ -1,5 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Nunito+Sans&display=swap"rel="stylesheet");
 
+.container {
+  display: flex;
+}
 .mainCards {
   position: relative;
   left: 120px;

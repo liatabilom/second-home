@@ -5,7 +5,7 @@ import "./Card3.css";
 class Card3 extends Component {
   render() {
     return (
-      <div className="cardBg">
+      <div className="cardBg .d-flex">
         <img src={Whoknews} alt="" />
       </div>
     );

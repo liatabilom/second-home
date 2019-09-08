@@ -6,8 +6,8 @@ import "./Search.css";
 class Search extends Component {
   render() {
     return (
-      <div>
-        <form className="changeBackground">
+      <div className="container">
+        <form>
           <div className="clearfix">
             <div className="float-left">
               <input className="emailInput" type="text" placeholder="Email" />

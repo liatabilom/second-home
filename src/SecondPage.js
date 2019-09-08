@@ -8,7 +8,7 @@ class SecondPage extends Component {
     return (
       <div>
         <h1>
-          <header className="header .d-sm-flex">
+          <header className="header">
             Na'dia
             <br />
             Correia Gonc,alves

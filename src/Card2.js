@@ -7,7 +7,7 @@ import "./Card2.css";
 class Card2 extends Component {
   render() {
     return (
-      <div>
+      <div className="d-flex">
         <img className="mobile" src={Mobile} alt="" />
         <FontAwesomeIcon icon={faPlusCircle} size="1x" className="plusIcon" />
       </div>
