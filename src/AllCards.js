@@ -7,7 +7,7 @@ import './AllCards.css';
 class AllCards extends Component {
 	render() {
 		return (
-			<div className="container  mt-1 mainCards">
+			<div className="container mt-1 mainCards">
 				<div
 					className="row"
 					style={{
