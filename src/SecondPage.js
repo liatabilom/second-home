@@ -8,7 +8,7 @@ class SecondPage extends Component {
 	render() {
 		return (
 			<div>
-				<div className="header" style={{ padding: 20 }}>
+				<div className="header">
 					<header>
 						Na'dia
 						<br />

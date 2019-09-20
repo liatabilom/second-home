@@ -5,10 +5,9 @@ class Card3 extends Component {
 	render() {
 		return (
 			<div
-				className="card-body"
-				id="cardBg"
+				className="cardBg"
 				style={{
-					height: 360,
+					height: 450,
 				}}
 			></div>
 		);
