@@ -10,7 +10,9 @@ class Card2 extends Component {
 				<h2>
 					<img style={{ height: 300, width: 200 }} src="https://i.imgur.com/CFk9xZm.png" alt="Mobile" />
 					<span>
-						<FontAwesomeIcon icon={faPlusCircle} size="1x" className="plusIcon" />
+						<a href="https://secondhome-inner.correiagoncalves.com/">
+							<FontAwesomeIcon icon={faPlusCircle} size="1x" className="plusIcon" />
+						</a>
 					</span>
 				</h2>
 			</div>
