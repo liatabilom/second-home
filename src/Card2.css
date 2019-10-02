@@ -1,15 +1,19 @@
 .plusIcon {
 	width: 30%;
 	position: absolute;
-	right: 80px;
-	bottom: 70px;
+	right: 40px;
+	bottom: 10px;
 	margin: 0px;
 	padding: 0px;
 }
 .mobile {
 	position: relative;
 	top: 60px;
-	left: 60px;
+	left: 80px;
 	padding: 0px;
 	margin: 0px;
+}
+
+.cardBackground {
+	background-image: linear-gradient(-20deg, #4d81fd 0%, #b1b8e3 100%);
 }

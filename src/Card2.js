@@ -6,9 +6,14 @@ import './Card2.css';
 class Card2 extends Component {
 	render() {
 		return (
-			<div className="mobile" style={{ height: 450 }}>
+			<div style={{ height: 450 }}>
 				<h2>
-					<img style={{ height: 300, width: 200 }} src="https://i.imgur.com/CFk9xZm.png" alt="Mobile" />
+					<img
+						className="mobile"
+						style={{ height: 300, width: 200 }}
+						src="https://i.imgur.com/CFk9xZm.png"
+						alt="Mobile"
+					/>
 					<span>
 						<a href="https://secondhome-inner.correiagoncalves.com/">
 							<FontAwesomeIcon icon={faPlusCircle} size="1x" className="plusIcon" />

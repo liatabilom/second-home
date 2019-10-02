@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Search from './Search';
 import AllCards from './AllCards';
 import Pages from './Pages';
-import './SecondPage.css';
+import './SecondMain.css';
 
 class SecondPage extends Component {
 	render() {

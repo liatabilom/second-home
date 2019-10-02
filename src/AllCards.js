@@ -8,20 +8,14 @@ class AllCards extends Component {
 	render() {
 		return (
 			<div className="container mt-1 mainCards">
-				<div
-					className="row"
-					style={{
-						backgroundSize: 650,
-						backgroundImage: "url('https://i.imgur.com/qyIGpjU.png')",
-					}}
-				>
+				<div className="row backgroundImage">
 					<div className="card-body p-0 col-md-4 border border-dark">
 						<Card1 />
 					</div>
 					<div className="card-body p-0 col-md-4 border border-dark">
 						<Card2 />
 					</div>
-					<div className="card-body p-0 col-md-4 border border-dark">
+					<div className="card-body p-0 col-md-4 border border-dark ">
 						<Card3 />
 					</div>
 				</div>
