@@ -1,5 +1,5 @@
 import React from 'react';
-import SecondPage from './SecondPage';
+import SecondMain from './SecondMain';
 import './App.css';
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
 				backgroundColor: '#f5f4ef',
 			}}
 		>
-			<SecondPage />
+			<SecondMain />
 		</div>
 	);
 }
