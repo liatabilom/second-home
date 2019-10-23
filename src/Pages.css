@@ -1,9 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito+Sans&display=swap'rel='stylesheet');
 
 .bottom-pages {
-	display: flex;
 	position: relative;
-	top: -10px;
+	top: 10px;
 	left: 150px;
 	width: 250px;
 }
@@ -25,6 +24,6 @@
 
 @media screen and (max-width: 480px) {
 	.bottom-pages {
-		left: 20%;
+		left: 15%;
 	}
 }
