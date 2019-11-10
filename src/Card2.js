@@ -6,11 +6,11 @@ import './Card2.css';
 class Card2 extends Component {
 	render() {
 		return (
-			<div style={{ height: 450 }}>
+			<div style={{ height: 480 }}>
 				<h2>
 					<img
 						className="mobile"
-						style={{ height: 300, width: 200 }}
+						style={{ height: 320, width: 200 }}
 						src="https://i.imgur.com/CFk9xZm.png"
 						alt="Mobile"
 					/>

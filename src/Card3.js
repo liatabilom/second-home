@@ -7,7 +7,7 @@ class Card3 extends Component {
 			<div
 				className="cardBg"
 				style={{
-					height: 450,
+					height: 480,
 				}}
 			></div>
 		);
